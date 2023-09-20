@@ -62,5 +62,6 @@
         <a href="https://yukpresensi.com" target="_blank"> <img src="https://github.com/mdhifta/modulo-plus-calculate/assets/55729354/15d5d268-e522-41a7-bf8e-451967a3414f" alt="YukPresensi" width="60" height="70"/> </a> 
         <a href="https://kasarasan.com" target="_blank"> <img src="https://github.com/mdhifta/modulo-plus-calculate/assets/55729354/19355fe2-588d-4379-ab2a-3f3fcf224055" alt="kasarasan" width="60" height="60"/> </a> 
         <a href="https://github.com/mdhifta/api-services-gin" target="_blank"> <img src="https://github.com/mdhifta/modulo-plus-calculate/assets/55729354/22a20df7-2173-4d1b-9e0a-5d2e43b1b003" alt="t-ginra" width="100" height="60"/> </a> 
-        <a href="https://shoerakasir.digisoft.id" target="_blank"> <img src="https://github.com/mdhifta/modulo-plus-calculate/assets/55729354/cd1a6cd5-5625-46cd-b36f-b2000825ddd4" alt="shoerakasir" width="100" height="50"/> </a> 
+        <a href="https://shoerakasir.digisoft.id" target="_blank"> <img src="https://github.com/mdhifta/modulo-plus-calculate/assets/55729354/cd1a6cd5-5625-46cd-b36f-b2000825ddd4" alt="shoerakasir" width="100" height="50"/> </a>
+  <a href="https://github.com/mdhifta/api-services-fastapi" target="_blank"> <img src="https://github.com/mdhifta/api-services-fastapi/assets/55729354/c0b9bf56-efb1-4f78-b4bc-6e10a37534ce" alt="shoerakasir" width="100" height="50"/> </a>
 </p>
