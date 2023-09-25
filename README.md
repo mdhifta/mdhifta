@@ -1,6 +1,6 @@
 <h1 align="center">Hello, M Dhifta here </h1>
 
-<h3 align="center"> I'm Software Engineer From Yogyakarta </h3>
+<h3 align="center"> I'm Software Engineer & FS/BE/FE Developer </h3>
 
   <p align="center">
     <a href="www.linkedin.com/in/m-dhifta-904776197" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mdhifta" height="25" width="25" /></a>&nbsp;&nbsp;<a href="https://medium.com/@mdhiftaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="mdhifta" height="25" width="25" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/enang.55/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mdhifta" height="25" width="25" /></a>&nbsp;&nbsp;<a href="https://twitter.com/mdhifta_"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mdhifta" height="25" width="25" /></a>&nbsp;&nbsp;<a href="mailto:mdhiftaa@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mdhifta" height="25" width="25" /></a>
